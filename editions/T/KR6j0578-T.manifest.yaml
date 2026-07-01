@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0578/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0578/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說十二佛名神呪校量功德除障滅罪經
+  identifiers:
+    krp: KR6j0578
+    cbeta: T21n1348
+    cbeta_old_id: T21n1348
+    authorityid: CA0003042
+    json_key: T1348
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1348.xml
+    old_id: T21n1348
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0578_000-T.yaml, hash: 'sha256:769b0c4d3aa3703a8ffd066361608acf03b62f4a31cc58598a8c329290a4a2e8'}
+  - {seq: 1, filename: KR6j0578_001-T.yaml, hash: 'sha256:daffae16f653c0a3ba6292408546bdd8a012177a2a6bda9c3ea4be31f1773265'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0578_000-T.markers.yaml, hash: 'sha256:c73bc4edfc93a50ff816c92773be62e6763906c95f174fab495bbbfca21af5fb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0578_001-T.markers.yaml, hash: 'sha256:f85c70272e52e5432468f3256cb2236e44e7cc3f9e8b300358ee3f50821ae614'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0578_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2370
+  label: '佛說十二佛名神呪校量功德除
+
+    障滅罪經'
+  type: juan
+  level: 1
+hash: sha256:8a8e66557df2bbb8cdc1037834e7a00418befc2ecfc7ede851aa49ddbd6f3e5a

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0578/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說十二佛名神呪校量功德除障滅罪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1348.xml
+    old_id: T21n1348
+hash: sha256:769b0c4d3aa3703a8ffd066361608acf03b62f4a31cc58598a8c329290a4a2e8
