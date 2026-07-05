@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0578_000.yaml, hash: 'sha256:769b0c4d3aa3703a8ffd066361608acf03b62f4a31cc58598a8c329290a4a2e8'}
-  - {seq: 1, filename: KR6j0578_001.yaml, hash: 'sha256:c48c0cb6e2a40cb0d1804b65b9c6a0b8c29b8dca237e1ca9be66577d4d096fe0'}
+  - {seq: 1, filename: KR6j0578_001.yaml, hash: 'sha256:daffae16f653c0a3ba6292408546bdd8a012177a2a6bda9c3ea4be31f1773265'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0578_001.markers.yaml, hash: 'sha256:2b1b87da92505d1328ba202f5092ddff58e1c33b87a8d2b328e60dd0d4f9e4b0'}
+  - {seq: 0, role: markers, filename: assets/KR6j0578_000.markers.yaml, hash: 'sha256:97fb30b19c7b8376655ad9c07cf7ea58a647789c9e5f1fb4abba2963f64b6514'}
+  - {seq: 1, role: markers, filename: assets/KR6j0578_001.markers.yaml, hash: 'sha256:823b2b73bea6fe6653e9acee8d3e2118632ae6910c3a930a4669732cb77dde4c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -44,7 +45,4 @@ table_of_contents:
     障滅罪經'
   type: juan
   level: 1
-hash: sha256:3de18040c23204e73d4057521f4c717ceac9ee0601fe51afdb1996500b971bd6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:34f4323605945e70d5e573a8b17a5f201c5f13c0c12aa220db977008d2272413
