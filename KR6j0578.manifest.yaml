@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0578/v1
 canonical_location: https://kanripo.org/bkk/KR6j0578/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說十二佛名神呪校量功德除障滅罪經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0578_000.yaml, hash: 'sha256:769b0c4d3aa3703a8ffd066361608acf03b62f4a31cc58598a8c329290a4a2e8'}
-  - {seq: 1, filename: KR6j0578_001.yaml, hash: 'sha256:daffae16f653c0a3ba6292408546bdd8a012177a2a6bda9c3ea4be31f1773265'}
+  - {seq: 1, filename: KR6j0578_001.yaml, hash: 'sha256:8786742ebac95d64d5dc0063f2866188a07d3fc0c0ffc1a18831a5b2df6baf27'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0578_000.markers.yaml, hash: 'sha256:97fb30b19c7b8376655ad9c07cf7ea58a647789c9e5f1fb4abba2963f64b6514'}
-  - {seq: 1, role: markers, filename: assets/KR6j0578_001.markers.yaml, hash: 'sha256:823b2b73bea6fe6653e9acee8d3e2118632ae6910c3a930a4669732cb77dde4c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0578_001.markers.yaml, hash: 'sha256:f492a23a37824a28a23d7ad5338ae6c4d58553692decdaf5fbb4e9d64c51c3d3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     障滅罪經'
   type: juan
   level: 1
-hash: sha256:34f4323605945e70d5e573a8b17a5f201c5f13c0c12aa220db977008d2272413
+hash: sha256:51c1ea0e90dd01e0187aa5f8de3c5f47c99ca4f8bb5e1bd3fde369b1136f0d2d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
